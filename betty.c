@@ -21,6 +21,6 @@ int main(void)
 	m_func1();
 	m_func2();
 
-	return EXIT_SUCCESS;
+	return (EXIT_SUCCESS);
 }
 
