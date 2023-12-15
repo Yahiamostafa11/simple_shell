@@ -17,4 +17,9 @@ void shell_loop(void);
 void execute_command(char *tokens[]);
 void handle_input(char *input);
 
+/*betty code*/
+void m_func1(void)
+void m_func2(void)
+int main(void)
+
 #endif
